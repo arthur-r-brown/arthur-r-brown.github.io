@@ -1,0 +1,1 @@
+import{t as e}from"./heat-laplace-eq-DJ9i3ulV.js";var t=e;export{t as component};

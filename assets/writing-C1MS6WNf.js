@@ -1,0 +1,1 @@
+import{t as e}from"./writing-IAaurTxO.js";var t=e;export{t as component};
