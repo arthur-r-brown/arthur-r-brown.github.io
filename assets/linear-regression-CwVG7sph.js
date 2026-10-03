@@ -1,0 +1,1 @@
+import{t as e}from"./linear-regression-zeCzZObm.js";var t=e;export{t as component};

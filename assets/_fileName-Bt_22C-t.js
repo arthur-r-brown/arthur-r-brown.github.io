@@ -1,1 +1,0 @@
-import{n as e}from"./component-BHq9GpKp.js";import{i as t,m as n}from"./index-BjHHT3S2.js";import{t as r}from"./writing-CRDeTGDA.js";var i=n();function a(){let{fileName:n}=t.useParams();return(0,i.jsx)(e,{title:n.toString().replace(/\/+$/,``).replace(/~/g,`/`),children:(0,i.jsx)(r,{filePath:`./${n.toString().replaceAll(`~`,`/`)}.mdx`})})}export{a as component};
