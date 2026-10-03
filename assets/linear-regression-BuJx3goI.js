@@ -1,1 +1,0 @@
-import{t as e}from"./linear-regression-Ys8rpNWi.js";var t=e;export{t as component};

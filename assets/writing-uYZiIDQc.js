@@ -1,0 +1,1 @@
+import{t as e}from"./writing-DdUAwiIF.js";var t=e;export{t as component};
