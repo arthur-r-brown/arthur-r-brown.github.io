@@ -1,0 +1,1 @@
+import{t as e}from"./heat-kernel-ESi4MCyV.js";var t=e;export{t as component};
