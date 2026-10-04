@@ -1,0 +1,1 @@
+import{t as e}from"./writing-CMLy0MGZ.js";var t=e;export{t as component};
