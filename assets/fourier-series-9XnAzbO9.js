@@ -1,1 +1,0 @@
-import{t as e}from"./fourier-series-DLZ3FiTq.js";var t=e;export{t as component};
