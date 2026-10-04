@@ -1,1 +1,0 @@
-import{t as e}from"./heat-laplace-eq-CtlgOTGC.js";var t=e;export{t as component};
